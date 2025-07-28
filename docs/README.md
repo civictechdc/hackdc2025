@@ -344,8 +344,6 @@ This landscape provides a blueprint for prioritizing MVP pipelines (entity resol
 | Cross‑Agency Aggregation | Unified access layer spanning all comment systems. |
 | Title Clarity | Disambiguate lengthy rule titles and surface relevant sections. |
 
-##
-
 ## Form Submissions (CSV)
 
 ### Visualizing Comment Data for Policy Analysis
