@@ -19,3 +19,6 @@
 [submodule "projects/rules-talk/upstream"]
 	path = projects/rules-talk/upstream
 	url = https://github.com/grubbjabari/talk-to-me-in-rules
+[submodule "projects/taskmasters/upstream"]
+	path = projects/taskmasters/upstream
+	url = https://github.com/SanskarLoganDev/civic-hack-taskmasters
