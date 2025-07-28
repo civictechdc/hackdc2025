@@ -1,0 +1,2176 @@
+{
+  "policy_name": "Request for Information; National Directory of Healthcare Providers & Services",
+  "total_comments_processed": 646,
+  "issues": [
+    {
+      "issue_id": "ISSUE_001",
+      "description": "Lack of provider sex information in the current system and concern that the proposed directory does not adequately address this.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_002",
+      "description": "Concern that the proposed classification system for gender and sex will not guarantee patients' ability to choose providers based on sex.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_003",
+      "description": "Demand for clear and accurate information about the biological sex of healthcare providers.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_004",
+      "description": "Concern that lack of transparency about provider sex could lead to breaches of trust and potential legal issues.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_005",
+      "description": "Request to prioritize biological sex information over gender identity in the directory.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_006",
+      "description": "Overall rejection of the proposal due to concerns about patient rights and information accuracy.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0239",
+          "comment_file_name": "CMS-2022-0163-0239.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_007",
+      "description": "Need for careful design and implementation of the NDH",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "A National Directory of Healthcare Providers & Services (NDH) is sorely needed, but it is important that it is built with thought and care.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_008",
+      "description": "Concerns about the usability and query capabilities of existing provider directory profiles",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "As someone who has implemented the Davinci provider directory profiles, they don't make for easy queries.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_009",
+      "description": "Criticism of the CMS Interoperability and Patient Access Rule's impact on provider directory information",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "The \"CMS Interoperability and Patient Access Rule\" has actually further fragmented provider directory information because it required all organizations that fall under the rule to build their own without any specified standardized format.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_010",
+      "description": "Concerns about using FHIR for identity-related information in the NDH",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "While FHIR has its uses for exchange for clinical information, in my opinion it is not a good choice for identity-related information. A NDH is not a clinical system.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_011",
+      "description": "Challenges related to identity management in the NDH",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "A big challenge with a NDH will be identity management (i.e. authentication and authorization) of providers and their delegates.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_012",
+      "description": "Need for a user-friendly and easy-to-update system",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "It must not be a burden to update and correct information. Think wiki-like.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_013",
+      "description": "Concerns about relying on the CMS Identity & Access Management System (I&A)",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Reliance on the \u201cIdentity & Access Management System (I&A)\u201d should be avoided. I&A is a non-standards-based Identity provider that is tied at the hip to NPPES. NPPES modernization efforts were greatly hampered by the I&A dependency, and we are glad to discuss this with CMS and ONC in greater detail in a suitable forum.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_014",
+      "description": "Recommendation for a simplified API for common queries",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Make the common queries work with a single API call that returns a single machine-readable document.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_015",
+      "description": "Recommendation for simpler data formats (CSV and JSON) instead of FHIR",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Consider a CSV output of the API as well as a simple JSON format. Yes CSV! FHIR feels like an overly complex way to go about this that in most cases require multiple calls to answer.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_016",
+      "description": "Recommendation to include non-NPI providers and CBOs in the directory",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Include \"non-npi having\" providers in the directory such as those with OEIDs. Also include community based organizations (CBOs).",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_017",
+      "description": "Recommendation for a simplified update process without requiring logins",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Find a way to largely avoid providers or their delegates needed to login to perform updates. For example, anyone could suggest an update, but email confirmation by the person or delegate could be used to confirm.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_018",
+      "description": "Recommendation to avoid reliance on the CMS I&A system",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Avoid reliance on the CMS Identity & Access Management System (I&A) and minimize need for Identity provider for the masses. If practice/plan admins could enter valid domain/emails.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_019",
+      "description": "Recommendation to allow compliance with the CMS Interoperability and Patient Access Rule through the NDH",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0393",
+          "comment_file_name": "CMS-2022-0163-0393.json",
+          "excerpt": "Allow those who fall under the \"CMS Interoperability and Patient Access Rule\" to meet the rule by keeping the NPD up to date.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_020",
+      "description": "Data security and privacy concerns related to the centralized nature of the proposed NDH.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0540",
+          "comment_file_name": "CMS-2022-0163-0540.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0405",
+          "comment_file_name": "CMS-2022-0163-0405.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0517",
+          "comment_file_name": "CMS-2022-0163-0517.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0628",
+          "comment_file_name": "CMS-2022-0163-0628.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0501",
+          "comment_file_name": "CMS-2022-0163-0501.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0638",
+          "comment_file_name": "CMS-2022-0163-0638.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0416",
+          "comment_file_name": "CMS-2022-0163-0416.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security risks associated with a centralized national database.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_021",
+      "description": "Positive feedback on the proposed phased implementation approach.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0540",
+          "comment_file_name": "CMS-2022-0163-0540.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0405",
+          "comment_file_name": "CMS-2022-0163-0405.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0517",
+          "comment_file_name": "CMS-2022-0163-0517.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0452",
+          "comment_file_name": "CMS-2022-0163-0452.json",
+          "excerpt": "We are particularly interested in the phased implementation approach, as this will allow for iterative improvements and adjustments based on real-world feedback.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0628",
+          "comment_file_name": "CMS-2022-0163-0628.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0501",
+          "comment_file_name": "CMS-2022-0163-0501.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0638",
+          "comment_file_name": "CMS-2022-0163-0638.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0416",
+          "comment_file_name": "CMS-2022-0163-0416.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_022",
+      "description": "Question regarding interoperability with existing EHR systems.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0540",
+          "comment_file_name": "CMS-2022-0163-0540.json",
+          "excerpt": "Will the NDH be compatible with existing electronic health record (EHR) systems?",
+          "comment_sentiment": "neutral"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0405",
+          "comment_file_name": "CMS-2022-0163-0405.json",
+          "excerpt": "Will the NDH be compatible with existing electronic health record (EHR) systems?",
+          "comment_sentiment": "neutral"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0628",
+          "comment_file_name": "CMS-2022-0163-0628.json",
+          "excerpt": "Will the NDH be compatible with existing electronic health record (EHR) systems?",
+          "comment_sentiment": "neutral"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0638",
+          "comment_file_name": "CMS-2022-0163-0638.json",
+          "excerpt": "Will the NDH be compatible with existing electronic health record (EHR) systems?",
+          "comment_sentiment": "neutral"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0416",
+          "comment_file_name": "CMS-2022-0163-0416.json",
+          "excerpt": "Will the NDH be compatible with existing electronic health record (EHR) systems?",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_023",
+      "description": "Concerns about the cost and potential return on investment for the NDH.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0540",
+          "comment_file_name": "CMS-2022-0163-0540.json",
+          "excerpt": "I worry about the cost of maintaining such a large database and whether the benefits outweigh the expenses.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0405",
+          "comment_file_name": "CMS-2022-0163-0405.json",
+          "excerpt": "I worry about the cost of maintaining such a large database and whether the benefits outweigh the expenses.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_024",
+      "description": "Positive feedback and willingness to participate in the policy development process.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0110",
+          "comment_file_name": "CMS-2022-0163-0110.json",
+          "excerpt": "Good morning, Thank you for the opportunity to provide comments. Please find our comments for the National Directory of Healthcare & Services uploaded.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_025",
+      "description": "Introduction of a company with relevant expertise in healthcare IT, potentially offering support for the NDH implementation.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0110",
+          "comment_file_name": "CMS-2022-0163-0110.json",
+          "excerpt": "Code360 is a Healthcare IT Services company specializing in Software Development, Enterprise Architecture, Health IT, Cloud Engineering and IT Governance.",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_026",
+      "description": "Concern about patient privacy and data security in the proposed National Directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0055",
+          "comment_file_name": "CMS-2022-0163-0055.json",
+          "excerpt": "This is a very bad and dangerous system to put in place for patients. A National Registry would create a portal for any healthcare professional to go into and find what all of our medical issues are.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_027",
+      "description": "Fear that the National Directory will limit access to care.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0055",
+          "comment_file_name": "CMS-2022-0163-0055.json",
+          "excerpt": "If this takes place we and many other people will not get any care in this country.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_028",
+      "description": "Belief that the National Directory infringes on patient privacy rights.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0055",
+          "comment_file_name": "CMS-2022-0163-0055.json",
+          "excerpt": "The Registry is also a infringement of our Privacy Rights. I do not want just any Dr., MA, Nurse, NP, etc. to have my personal information or my medical history. It's wrong.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_029",
+      "description": "Concern that the National Directory will exacerbate existing difficulties in accessing care for patients with complex medical needs.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0055",
+          "comment_file_name": "CMS-2022-0163-0055.json",
+          "excerpt": "We already have the hardest time finding Doctors for our selves and family members when we have ALS, Intellectually delayed, Disabilities, Major medical anomalies, etc.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_030",
+      "description": "Suggestion that only patients should have access to their information within the National Directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0055",
+          "comment_file_name": "CMS-2022-0163-0055.json",
+          "excerpt": "If you have to create this registry then  the only person that should be allowed to enter the portal should be the patient. Then if we wish to give the Dr. the information we will.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_031",
+      "description": "The commenter expresses concern that the proposed National Directory of Healthcare Providers & Services (NDH) may not accurately reflect the biological sex of healthcare providers, focusing on the importance of this information for patient choice, particularly for women seeking OB/GYN services.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0281",
+          "comment_file_name": "CMS-2022-0163-0281.json",
+          "excerpt": "It is important when choosing healthcare to definitely know the sex of your healthcare provider. As a women, especially choosing an ob/gyn, I think it is imperative to know who will be providing me with care. I want to go to a doctor or heath care provider and know what sex they actually are, not what they \u201cidentify\u201d as.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_032",
+      "description": "Concern that the proposed classification of gender and sex in the directory will not guarantee patients' ability to choose providers based on sex.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_033",
+      "description": "Demand for clear and accurate information about the biological sex of healthcare providers in the directory.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_034",
+      "description": "Concern that lack of transparency about provider sex could lead to deception and potential legal issues.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_035",
+      "description": "Overall rejection of the proposal due to concerns about provider sex information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0147",
+          "comment_file_name": "CMS-2022-0163-0147.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_036",
+      "description": "Concern about the long-term funding and maintenance of the NDH.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0517",
+          "comment_file_name": "CMS-2022-0163-0517.json",
+          "excerpt": "Will there be sufficient funding allocated to maintain and update the directory over the long term?",
+          "comment_sentiment": "neutral"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0501",
+          "comment_file_name": "CMS-2022-0163-0501.json",
+          "excerpt": "Will there be sufficient funding allocated to maintain and update the directory over the long term?",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_037",
+      "description": "Convenience and ease of access to healthcare providers for patients.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0002",
+          "comment_file_name": "CMS-2022-0163-0002.json",
+          "excerpt": "As a consumer or patient,a National Directory of Healthcare Providers & Services  has it's merits if it allows a more convenient treatment related provider/patient appointment.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_038",
+      "description": "Improving healthcare access in rural areas.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0002",
+          "comment_file_name": "CMS-2022-0163-0002.json",
+          "excerpt": "A Federal provider data base would be beneficial to enhance connected treatment opportunities for rural health clinics and rural residential places such as houses,apartments,trailers etc.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_039",
+      "description": "Integration of telehealth with the directory for improved access.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0002",
+          "comment_file_name": "CMS-2022-0163-0002.json",
+          "excerpt": "A centralized data hub would have significantly more meaning when combined with actual real time patient/provider connections made possible through broadband telemedicine sessions.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_040",
+      "description": "Positive feedback on the policy proposal.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0002",
+          "comment_file_name": "CMS-2022-0163-0002.json",
+          "excerpt": "So in sum,it's my belief CMS and HHS consideration for a National Directory of Healthcare Providers& Services has been thoughtful and proper.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_041",
+      "description": "Emphasis on the importance of telehealth in rural healthcare.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0002",
+          "comment_file_name": "CMS-2022-0163-0002.json",
+          "excerpt": "Furthermore,telemedicine through broadband connected devices is a critical consideration for enhancing rural america's health treatment opportunities.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_042",
+      "description": "Support for the proposed NDH and its potential benefits.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0452",
+          "comment_file_name": "CMS-2022-0163-0452.json",
+          "excerpt": "The Connected Health Initiative strongly supports the proposed National Directory of Healthcare Providers & Services (NDH). We believe that a centralized, accurate, and up-to-date directory will significantly improve healthcare access and reduce administrative burdens for providers and patients alike.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_043",
+      "description": "Concern about data privacy and security.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0452",
+          "comment_file_name": "CMS-2022-0163-0452.json",
+          "excerpt": "However, we have some concerns regarding data privacy and security.  Robust safeguards must be in place to protect sensitive patient information.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_044",
+      "description": "Concern about data accuracy and timeliness, and suggestion for incentivizing provider participation.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0452",
+          "comment_file_name": "CMS-2022-0163-0452.json",
+          "excerpt": "The success of the NDH will depend heavily on the accuracy and timeliness of data updates.  We recommend exploring mechanisms to incentivize provider participation and data accuracy.",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_045",
+      "description": "Concern that lack of transparency about provider sex could lead to ethical issues and legal ramifications.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_046",
+      "description": "Opposition to the inclusion of gender identity in the directory and a call for focusing on biological sex.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_047",
+      "description": "Overall rejection of the proposal due to concerns about the handling of sex and gender information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0297",
+          "comment_file_name": "CMS-2022-0163-0297.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_048",
+      "description": "Concern about potential inaccuracies in the NDH related to sex designation and the resulting medical consequences.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0278",
+          "comment_file_name": "CMS-2022-0163-0278.json",
+          "excerpt": "Falsifying a person's sex could lead to medical misinformation, malpractice and serious life-altering implications.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_049",
+      "description": "Rejection of gender identity beyond the traditional male/female binary.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0278",
+          "comment_file_name": "CMS-2022-0163-0278.json",
+          "excerpt": "Humans are either: MALE OR FEMALE, AND IT CANNOT BE CHANGED!",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_050",
+      "description": "Negative view towards transgender individuals and those who identify outside the traditional gender binary.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0278",
+          "comment_file_name": "CMS-2022-0163-0278.json",
+          "excerpt": "People who have a mental illness that makes them think they should have been the other sex need mental help. NOT PANDERED TO.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_051",
+      "description": "Concern about the challenges in maintaining data accuracy and timeliness in the NDH.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0628",
+          "comment_file_name": "CMS-2022-0163-0628.json",
+          "excerpt": "Maintaining the accuracy and timeliness of the data in such a large database will be a significant challenge.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0638",
+          "comment_file_name": "CMS-2022-0163-0638.json",
+          "excerpt": "Maintaining the accuracy and timeliness of the data in such a large database will be a significant challenge.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0416",
+          "comment_file_name": "CMS-2022-0163-0416.json",
+          "excerpt": "Maintaining the accuracy and timeliness of the data in such a large database will be a significant challenge.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_052",
+      "description": "The comment is not directly providing feedback within the body of the comment text, but rather refers to an attached document for detailed feedback.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0474",
+          "comment_file_name": "CMS-2022-0163-0474.json",
+          "excerpt": "Please find attached the American Academy of Home Care Medicine's (AAHCM) comment letter in response to CMS' RFI.",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_053",
+      "description": "Concern about the lack of biological sex information in the proposed provider directory and its impact on patient choice and informed consent.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0161",
+          "comment_file_name": "CMS-2022-0163-0161.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0531",
+          "comment_file_name": "CMS-2022-0163-0531.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0618",
+          "comment_file_name": "CMS-2022-0163-0618.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0287",
+          "comment_file_name": "CMS-2022-0163-0287.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_054",
+      "description": "Demand for the inclusion of verifiable biological sex information in the provider directory, emphasizing patient rights to know this information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0161",
+          "comment_file_name": "CMS-2022-0163-0161.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0531",
+          "comment_file_name": "CMS-2022-0163-0531.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0618",
+          "comment_file_name": "CMS-2022-0163-0618.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_055",
+      "description": "Concern that omitting biological sex information could lead to deception, breach of trust, and potential legal issues related to lack of informed consent.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0161",
+          "comment_file_name": "CMS-2022-0163-0161.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_056",
+      "description": "Suggestion to remove gender identity information from the directory, considering it unverifiable and irrelevant to healthcare.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0161",
+          "comment_file_name": "CMS-2022-0163-0161.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_057",
+      "description": "Overall rejection of the proposal due to concerns about the lack of biological sex information and inclusion of gender identity.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0161",
+          "comment_file_name": "CMS-2022-0163-0161.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_058",
+      "description": "Concern that omitting biological sex information could lead to deception, breach of trust, and potential legal issues (assault charges).",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0531",
+          "comment_file_name": "CMS-2022-0163-0531.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0618",
+          "comment_file_name": "CMS-2022-0163-0618.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_059",
+      "description": "Suggestion to remove gender identity information from the directory, considering it unverifiable and irrelevant.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0531",
+          "comment_file_name": "CMS-2022-0163-0531.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0618",
+          "comment_file_name": "CMS-2022-0163-0618.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_060",
+      "description": "Overall rejection of the proposal due to concerns about the lack of biological sex information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0531",
+          "comment_file_name": "CMS-2022-0163-0531.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0618",
+          "comment_file_name": "CMS-2022-0163-0618.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_061",
+      "description": "Right to know provider's sex",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0248",
+          "comment_file_name": "CMS-2022-0163-0248.json",
+          "excerpt": "Patients have a right to know the sex of their providers. Further, they have a right to select providers based on the sex of said providers.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_062",
+      "description": "Concerns about gender ideology impacting provider sex information",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0248",
+          "comment_file_name": "CMS-2022-0163-0248.json",
+          "excerpt": "Attempts to obfuscate or change the definition of \"sex\" to include any aspect of Gender Ideology, directly undermine this basic patient right.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_063",
+      "description": "Potential negative health consequences of not knowing provider sex",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0248",
+          "comment_file_name": "CMS-2022-0163-0248.json",
+          "excerpt": "undermining this basic patient right will lead to disastrous health outcomes and harm for many, as they will delay critical health exams due to concerns that knowledge of the sex of their providers is not guaranteed.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_064",
+      "description": "Concern about the lack of clear information on provider biological sex in the proposed NDH, focusing on the inadequacy of \"Administrative Gender\" as a sole identifier.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0395",
+          "comment_file_name": "CMS-2022-0163-0395.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_065",
+      "description": "Demand for the inclusion of verifiable biological sex information in the NDH, emphasizing patient rights to know this information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0395",
+          "comment_file_name": "CMS-2022-0163-0395.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_066",
+      "description": "Concern that omitting biological sex information from the NDH could lead to deception, erode trust, and potentially result in legal issues (assault charges).",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0395",
+          "comment_file_name": "CMS-2022-0163-0395.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_067",
+      "description": "Suggestion to remove \"gender identity\" information from the NDH, considering it unverifiable and medically irrelevant.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0395",
+          "comment_file_name": "CMS-2022-0163-0395.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_068",
+      "description": "Overall rejection of the proposal due to concerns about the lack of clear biological sex information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0395",
+          "comment_file_name": "CMS-2022-0163-0395.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_069",
+      "description": "Data security and privacy concerns related to the centralized NDH",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0546",
+          "comment_file_name": "CMS-2022-0163-0546.json",
+          "excerpt": "I am concerned about the potential for data breaches and the security of sensitive patient information in a centralized database.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_070",
+      "description": "Support for the phased implementation plan",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0546",
+          "comment_file_name": "CMS-2022-0163-0546.json",
+          "excerpt": "The phased implementation approach seems reasonable, allowing for adjustments based on initial results.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_071",
+      "description": "Concerns about the long-term financial sustainability of the NDH",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0546",
+          "comment_file_name": "CMS-2022-0163-0546.json",
+          "excerpt": "Will there be sufficient funding allocated to maintain and update the directory over the long term?",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_072",
+      "description": "The commenter objects to the use of the term \"provider\", suggesting it's unclear and potentially offensive, and proposes more specific terminology.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0116",
+          "comment_file_name": "CMS-2022-0163-0116.json",
+          "excerpt": "Use of the term \"provider\" is outmoded and inappropriate for physicians and other health professionals, and CMS should decide who they are referring to in the proposed rule.  If CMS is referring to health professionals or clinicians, these terms should be used.  If only referring to physicians, the term physicians should be used.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_073",
+      "description": "The commenter expresses concern that the term \"provider\" is ambiguous and disliked by healthcare professionals, potentially hindering understanding and acceptance of the proposed directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0116",
+          "comment_file_name": "CMS-2022-0163-0116.json",
+          "excerpt": "Individuals concerned with a national directory don't know who you mean when using the term \"provider\", which is universally resented by health professionals.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_074",
+      "description": "Concern that the policy might negatively impact women's rights",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0403",
+          "comment_file_name": "CMS-2022-0163-0403.json",
+          "excerpt": "I am begging you to not take away women's rights, that we have fought so long and hard for.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_075",
+      "description": "Assertion that biological sex differences are significant and immutable",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0403",
+          "comment_file_name": "CMS-2022-0163-0403.json",
+          "excerpt": "A woman, a biological woman, is vastly different than a man.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_076",
+      "description": "Fear of potential negative consequences for women's health",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0403",
+          "comment_file_name": "CMS-2022-0163-0403.json",
+          "excerpt": "You will do irrevocable harm to the female body if you make this an ambiguous proposition.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_077",
+      "description": "Difficulty in accessing up-to-date information about healthcare providers and services.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0053",
+          "comment_file_name": "CMS-2022-0163-0053.json",
+          "excerpt": "These resources sometimes take months to gather, highlighting our fractured healthcare system and lack of services.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_078",
+      "description": "Inaccuracy and lack of timeliness in existing provider directories.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0053",
+          "comment_file_name": "CMS-2022-0163-0053.json",
+          "excerpt": "For example, we often find listings of available providers and services, only to call and learn that they are no longer accepting new patients or they are no longer in service.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_079",
+      "description": "Suggestion to ensure the national directory includes community services and is regularly updated.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0053",
+          "comment_file_name": "CMS-2022-0163-0053.json",
+          "excerpt": "A National Directory of Healthcare Providers and Services will help solve this problem if it includes community services and is updated regularly.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_080",
+      "description": "Strong support for the proposed national directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0053",
+          "comment_file_name": "CMS-2022-0163-0053.json",
+          "excerpt": "We strongly support a robust and accurate National Directory of Healthcare Providers and Services.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_081",
+      "description": "Demand for clear and accurate information on the biological sex of healthcare providers in the directory.",
+      "related_policy_sections": [
+        "overall policy",
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0287",
+          "comment_file_name": "CMS-2022-0163-0287.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_082",
+      "description": "Concern that omitting biological sex information could lead to deception, lack of consent, and potential legal issues.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0287",
+          "comment_file_name": "CMS-2022-0163-0287.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_083",
+      "description": "Suggestion to remove gender identity information from the directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0287",
+          "comment_file_name": "CMS-2022-0163-0287.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0154",
+          "comment_file_name": "CMS-2022-0163-0154.json",
+          "excerpt": "Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_084",
+      "description": "Overall rejection of the proposal due to concerns about sex and gender representation.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0287",
+          "comment_file_name": "CMS-2022-0163-0287.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_085",
+      "description": "Concern about the lack of clear information on provider sex in the current system and the inadequacy of \"Administrative Gender\" as a descriptor.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_086",
+      "description": "Doubt that the proposed classification system will effectively address the need for clear information on provider sex.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_087",
+      "description": "Demand for the inclusion of verifiable biological sex information in the provider directory.",
+      "related_policy_sections": [
+        "proposed actions",
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        },
+        {
+          "comment_id": "CMS-2022-0163-0154",
+          "comment_file_name": "CMS-2022-0163-0154.json",
+          "excerpt": "Any schemata or classification of healthcare providers must make it clear to patients what the objectively verifiable, genetic/chromosomal sex is of every provider. This is what virtually every human being on earth understands to be sex (as opposed to \u201cgender\u201d), and patients have the right to know this about providers they choose for healthcare.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_088",
+      "description": "Concern that omitting biological sex information could lead to ethical issues, including lack of informed consent and potential assault.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_089",
+      "description": "Advocacy for prioritizing biological sex information over gender identity in the directory.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0268",
+          "comment_file_name": "CMS-2022-0163-0268.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_090",
+      "description": "Concern that omitting biological sex information could lead to ethical issues and legal problems.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_091",
+      "description": "Suggestion to prioritize biological sex information and minimize or exclude gender identity information.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0141",
+          "comment_file_name": "CMS-2022-0163-0141.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_092",
+      "description": "The South Carolina Hospital Association has submitted comments on the RFI for the National Directory of Healthcare Providers and Services.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0511",
+          "comment_file_name": "CMS-2022-0163-0511.json",
+          "excerpt": "Attached, please find the South Carolina Hospital Association's comments regarding the National Directory of Healthcare Providers and Services RFI.",
+          "comment_sentiment": "neutral"
+        }
+      ],
+      "sentiment": "neutral"
+    },
+    {
+      "issue_id": "ISSUE_093",
+      "description": "Insurance plans are failing to establish adequate networks and maintain accurate provider directories.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "As your Background Info illuminates the main problem with access is that Insurance Plans are failing to establish adequate networks and purposefully host inaccurate directories to hide this fact.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_094",
+      "description": "Suggestion to increase regulatory pressure on insurance companies.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "It would seem most useful to increase regulatory pressure on the Insurance Industry.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_095",
+      "description": "Concern about increasing burdens on clinical providers.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "I believe that the Federal Gov should not increase any additional burdens on clinical providers and should rightfully so expect increased honesty and accountability from commercial health insurance plans.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_096",
+      "description": "Insurance plans ignoring clinician requests to cancel contracts.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "It is common practice for insurance plan ignore a clinicians written request to cancel their contract. This practice is purposeful as it makes the plans networks appear adequate.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_097",
+      "description": "Weak enforcement and lack of consequences for insurance plans.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "Because enforcement is weak and consequences are few Ins plans do what suits them best (increases their profits) at the expense of all others.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_098",
+      "description": "Increasing burdens on providers may reduce access and increase burnout.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "I do believe that increasing burdens on treatment provider/clinician would likely reduce access and increase burnout.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_099",
+      "description": "Criticism of the healthcare system prioritizing commercial interests over providers and patients.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "The American Health Care system is unique in that it prioritizes the commercial interests of the insurance industry over providers and patients.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_100",
+      "description": "Concerns about unfair payment from commercial insurance plans.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "I have found that participation in commercial insurance plans ensure that I will work harder and am not guaranteed fair or proper payment.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_101",
+      "description": "Concern about the burden of submitting availability data.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "It would be a terrible imposition if CMS requires me to submit data about my availability when I am open to the public who can call me directly to determine if I am available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_102",
+      "description": "Suggestion that commercial insurance plans manage their networks and determine provider availability.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0004",
+          "comment_file_name": "CMS-2022-0163-0004.json",
+          "excerpt": "I do think that commercial insurance plans especially MA Plans should be required to manage their networks and to determine provider availability.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_103",
+      "description": "Data discrepancies across different stakeholders (patients, payers, providers)",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0504",
+          "comment_file_name": "CMS-2022-0163-0504.json",
+          "excerpt": "The data a patient needs to find a provider is very different from the information payers require from providers, or providers require from each other.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_104",
+      "description": "Highlights the need for comprehensive patient-centric data beyond basic provider information",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0504",
+          "comment_file_name": "CMS-2022-0163-0504.json",
+          "excerpt": "Our deep consumer research and focus on connecting patients with care highlights four types of information people need when choosing a provider: clinical, financial, personal and availability.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_105",
+      "description": "Specific data points crucial for patient selection (clinical details, cost, personal needs, availability)",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0504",
+          "comment_file_name": "CMS-2022-0163-0504.json",
+          "excerpt": "Clinical: The specialty of a provider is important, but so are the conditions. An orthopedist may be the right speciality, but if a provider specializes in hands and the patient needs a knee replacement that provider doesn\u2019t \u201cmatch\u201d for the patient. Financial: The cost to the consumer for care. Personal:  Addressing the unique, personal needs of a patient beyond the convenience of physical location is also critical, such as languages spoken or support for very personal elements for the patient including ability to treat LGBTQ+ patients. Availability: If a provider isn\u2019t accepting new patients, or doesn\u2019t have availability for six months, they may not be the right provider match.",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_106",
+      "description": "Concern about the lack of clear information on the biological sex of healthcare providers in the proposed directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0154",
+          "comment_file_name": "CMS-2022-0163-0154.json",
+          "excerpt": "One piece of information that is often important to a patient in selection of, and consent to treatment by, a healthcare provider is the sex of the provider. A patient\u2019s sex is also a crucial fact if a patient is to receive appropriate medical care. However, providers and patients are currently identified only by the term \u201cAdministrative Gender\u201d which is defined as, \u201cThe gender of a person used for administrative [recordkeeping] purposes.\u201d This does not indicate the provider\u2019s sex.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_107",
+      "description": "Concern that omitting biological sex information could lead to deception and potential legal issues.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0154",
+          "comment_file_name": "CMS-2022-0163-0154.json",
+          "excerpt": "To deny patients this information begins the doctor/provider-patient relationship \u2013 which should be one of profound trust and care \u2013 with a deception. Additionally, it opens a path for the charge of assault, based on lack of consent, if a patient is assigned a provider of the sex the patient would not have chosen had the relevant information been made available.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_108",
+      "description": "Overall rejection of the proposal.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0154",
+          "comment_file_name": "CMS-2022-0163-0154.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_109",
+      "description": "Critique of the proposed gender/sex classification system for its failure to guarantee patient choice based on provider sex.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "None of the proposed classification definitions of gender/sex guarantees a patient will see a provider of the sex she or he chooses.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_110",
+      "description": "Suggestion to prioritize biological sex information over gender identity in the directory.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "At a minimum, the Directory has a duty to provide clear information about the biological sex of patients and providers, unobscured by gender identity ideology. Ideally, the unverifiable and medically irrelevant notion of \u201cgender identity\u201d should be completely removed from the Directory.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_111",
+      "description": "Overall rejection of the proposal due to concerns about accuracy and patient rights.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0380",
+          "comment_file_name": "CMS-2022-0163-0380.json",
+          "excerpt": "I am writing to urge CMS to reject this proposal. Patients have the right to clear and accurate knowledge about the sex of their chosen providers. For a directory to be effective, the information contained must be accurate.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_112",
+      "description": "Privacy concerns regarding the potential for the NDH to violate patient privacy rights and HIPAA regulations.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0046",
+          "comment_file_name": "CMS-2022-0163-0046.json",
+          "excerpt": "The Request for Information in a National Directory of Healthcare Providers is taking our rights away as a patient. We have HIPPA for a reason.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_113",
+      "description": "Patient autonomy and control over the sharing of their healthcare information.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0046",
+          "comment_file_name": "CMS-2022-0163-0046.json",
+          "excerpt": "I do not want any Health Care Facility or Doctor to know where I have been getting services or what I have got services for. It is my place to inform if I wish.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_114",
+      "description": "Concerns about the financial costs associated with implementing and maintaining the NDH.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0046",
+          "comment_file_name": "CMS-2022-0163-0046.json",
+          "excerpt": "If you choose to make this Directory you will cost us all a tremendous amount of money.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_115",
+      "description": "Potential negative consequences of the NDH, such as decreased doctor visits and increased ER/urgent care visits.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0046",
+          "comment_file_name": "CMS-2022-0163-0046.json",
+          "excerpt": "Definitely many of us will STOP going to the Doctors. This in turn ends up in ER visits and Urgent care visits.",
+          "comment_sentiment": "negative"
+        }
+      ],
+      "sentiment": "negative"
+    },
+    {
+      "issue_id": "ISSUE_116",
+      "description": "Positive feedback on the overall concept of a national provider directory.",
+      "related_policy_sections": [
+        "overall policy"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0103",
+          "comment_file_name": "CMS-2022-0163-0103.json",
+          "excerpt": "The idea of a \"nation-wide provider directory\" would be fabulous!",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_117",
+      "description": "Suggestion to expand the directory's scope to include all medical professions beyond MDs.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0103",
+          "comment_file_name": "CMS-2022-0163-0103.json",
+          "excerpt": "- cover not only MDs but all medical professions, e.g., DOs, RNs, Pharmacists, Therapists",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_118",
+      "description": "Recommendation to incorporate comprehensive licensure information and streamline data entry from licensing boards.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0103",
+          "comment_file_name": "CMS-2022-0163-0103.json",
+          "excerpt": "- include licensure information (valid, suspended, expired...); licensing boards should post their information directly into the directory",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "issue_id": "ISSUE_119",
+      "description": "Proposal to integrate sanction data from various sources for improved provider credentialing.",
+      "related_policy_sections": [
+        "proposed actions"
+      ],
+      "referencing_comments": [
+        {
+          "comment_id": "CMS-2022-0163-0103",
+          "comment_file_name": "CMS-2022-0163-0103.json",
+          "excerpt": "- include their sanction data, spanning from reprimands to exclusions and loss of license, i.e., an important part of credentialing providers; not only licensing boards, but also OIG and CMS (especially State Medicaid) should post their information directly into the directory",
+          "comment_sentiment": "positive"
+        }
+      ],
+      "sentiment": "positive"
+    }
+  ]
+}
