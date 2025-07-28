@@ -1,0 +1,5 @@
+.env
+
+bulk_sample/
+mirrulations/
+parquet/
