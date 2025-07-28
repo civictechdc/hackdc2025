@@ -1,8 +1,10 @@
-# Civic Hack DC 2025 Judging Methodology
+# Civic Hack DC 2025 Evaluation Methodology
 
 ## Scoring Rubric
 
-Only judge the projects that you feel comfortable judging.
+You don't need to evaluate all projects. Only evaluate the projects that you feel comfortable evaluating.
+
+You can also evaluate projects that you don't think are good, but that you think are interesting.
 
 Each project is evaluated on **six dimensions**, each worth up to 5 points. Scores are multiplied by their respective weight to calculate a weighted total (100% overall):
 
@@ -44,7 +46,7 @@ Each project is evaluated on **six dimensions**, each worth up to 5 points. Scor
 
 ## Evaluation Process
 
-1. Each judge scores independently.
-2. Weighted scores are calculated and averaged across all judges.
+1. Each evaluator scores independently.
+2. Weighted scores are calculated and averaged across all evaluators.
 3. Ties are broken by highest Impact & Relevance score.
 4. Final rankings determine which projects are featured and which receive prizes.

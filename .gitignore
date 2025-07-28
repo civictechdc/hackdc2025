@@ -58,7 +58,7 @@ ENV/
 *.db
 
 # Exceptions for small reference files
-!judging/results.csv
+!evaluations/results.csv
 !datasets/*.csv
 
 # Temporary files

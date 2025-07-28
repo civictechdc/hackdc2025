@@ -1,24 +1,18 @@
 ---
 
-name: Judging Submission
+name: Evaluation Submission
 about: Submit your evaluation scores for hackathon projects
-title: '\[JUDGING] Your Name - Judging Submission'
-labels: judging-submission
+title: '\[EVALUATION] Your Name - Evaluation Submission'
+labels: evaluation-submission
 assignees: ''
 
 ---
 
-## Judge Information
+## Evaluator Information
 
 **Name:** <!-- Your full name -->
 **Affiliation:** <!-- Your organization/company (optional) -->
 **Email:** <!-- Contact email (optional, for follow-up questions) -->
-
-## Conflict of Interest Declaration
-
-<!-- Check any that apply -->
-
-* [ ] I have no conflicts of interest with any teams
 
 ## Project Evaluations
 

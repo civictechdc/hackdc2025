@@ -19,7 +19,7 @@ We first want to thank the volunteers and participants who made this hackathon p
 - **Moravian University**(<https://www.moravian.edu/>) - Maintaining the Regulations.gov mirror dataset
 - **DataKindDC**(<https://www.meetup.com/datakind-dc/>)
 
-This hackathon was made possible by our sponsors, partners, the judging panel, and all participants who dedicated their time and creativity to building tools for regulatory transparency.
+This hackathon was made possible by our sponsors, partners, the evaluation panel, and all participants who dedicated their time and creativity to building tools for regulatory transparency.
 
 ## 1 · Why This Repository Exists
 
@@ -28,7 +28,7 @@ On July 26 2025, 90 policy experts, data engineers, and civic technologists gath
 This repo now serves as the **permanent archive**:
 
 - final project snapshots  
-- judging results & slide decks  
+- evaluation results & slide decks  
 - cleaned datasets & helper scripts  
 - the original problem briefs (for future contributors)  
 
@@ -95,9 +95,9 @@ For more details, see the [Problem Space Documentation](./docs/README.md).
 
 ---
 
-## 5 · Judging Criteria
+## 5 · Evaluation Criteria
 
-This is not a competition, but we will judge asynchronously to decide which projects to feature, and we'll raffle off prizes to the top 3 projects.
+This is not a competition, but we will evaluate the projects asynchronously to decide which projects to feature, and we'll raffle off prizes to the top 3 projects.
 
 Projects were evaluated based on the following dimensions:
 
@@ -132,7 +132,7 @@ Projects are scored on a 1–5 scale in each category and then multiplied by the
     topic_sentiment.md
     download_tools.md
 /docs/images/ – Images
-/judging/
+/evaluations/
     results.csv         – Raw scoring data
     methodology.md      – Rubric and evaluator details
     summaries.md        – Project descriptions

@@ -1,6 +1,6 @@
-# Civic Hack DC 2025 – Judging Submission
+# Civic Hack DC 2025 – Evaluation Submission
 
-**Judge Name:** \[Your Name]
+**Evaluator Name:** \[Your Name]
 **Organization:** \[Your Organization]
 **Date:** \[YYYY-MM-DD]
 
@@ -40,4 +40,4 @@
 
 ## Overall Feedback
 
-> \[Any overall comments about the hackathon, judging process, or suggestions for improvement]
+> \[Any overall comments about the hackathon, evaluation process, or suggestions for improvement]
