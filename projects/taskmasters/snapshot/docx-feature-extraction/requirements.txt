@@ -1,0 +1,7 @@
+boto3
+click
+python-docx
+pandas
+nltk
+transformers
+bertopic

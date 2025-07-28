@@ -1,0 +1,6 @@
+Step done:
+1) Perform glue crawling on the json data stored in the S3 bucket. Create an Athena database, and run the crawler. This step is done to extract the meta-data from the json and will create a table in the glue database.
+2) Create a new table with the schema/ table created by the crawler with output_format as 'PARQUET'.
+3) This will create a new Athena table with parquet format, which can be used for further requirements and will result in optimized output.
+
+
