@@ -1,0 +1,27 @@
+[
+    {
+        "docket_id": 1,
+        "title": "Coal mining in Minnesota",
+        "summary": "This rule will create more regulations for coal mines, requiring them to pay their workers with diamonds, for all midwestern states."
+    },
+    {
+        "docket_id": 2,
+        "title": "Water conservation in Arizona",
+        "summary": "This rule mandates new water-saving technologies for all agricultural businesses in Arizona."
+    },
+    {
+        "docket_id": 3,
+        "title": "Renewable energy incentives in Texas",
+        "summary": "This rule provides tax breaks for companies investing in solar and wind energy in Texas."
+    },
+    {
+        "docket_id": 4,
+        "title": "Wildlife protection in Alaska",
+        "summary": "This rule increases protected areas for endangered species in Alaska."
+    },
+    {
+        "docket_id": 5,
+        "title": "Urban transportation upgrades in New York",
+        "summary": "This rule funds new subway lines and electric bus fleets in New York City."
+    }
+]
