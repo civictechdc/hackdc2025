@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Run markdownlint
+      uses: DavidAnson/markdownlint-cli2-action@v11
+      with:
+        globs: '**/*.md'
+
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Link Checker
+      uses: lycheeverse/lychee-action@v1
+      with:
+        args: --verbose --no-progress './**/*.md' './**/*.html'
+        fail: true 
+
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: Install cspell
+      run: npm install -g cspell
+      
+    - name: Run spell check
+      run: cspell "**/*.md" "**/*.txt" "**/*.py" --no-progress 

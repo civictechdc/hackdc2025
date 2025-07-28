@@ -1,0 +1,92 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+
+# Build outputs
+dist/
+build/
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Large data files (use Git LFS instead)
+*.csv
+*.json
+*.sqlite
+*.db
+
+# Exceptions for small reference files
+!judging/results.csv
+!datasets/*.csv
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives (often large)
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Media files (often large)
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+
+# Keep .gitkeep files
+!.gitkeep 

@@ -1,0 +1,5 @@
+Original Repository: https://github.com/team-name/project-name
+Demo Video: https://youtube.com/watch?v=XXXXX
+Presentation Slides: https://slides.com/team-name/civic-hack-dc-2025
+Live Demo: https://project-name.herokuapp.com
+Team Profile: https://devpost.com/software/project-name 
