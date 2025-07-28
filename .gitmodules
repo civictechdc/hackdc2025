@@ -28,3 +28,6 @@
 [submodule "projects/the-scrapers/upstream"]
 	path = projects/the-scrapers/upstream
 	url = https://github.com/Cromian/civic-tech-scrape
+[submodule "projects/uspf1/upstream"]
+	path = projects/uspf1/upstream
+	url = https://github.com/raghavrama21/uspf1-fda-knowledge-graph
