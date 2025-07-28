@@ -22,3 +22,6 @@
 [submodule "projects/taskmasters/upstream"]
 	path = projects/taskmasters/upstream
 	url = https://github.com/SanskarLoganDev/civic-hack-taskmasters
+[submodule "projects/team-velogear/upstream"]
+	path = projects/team-velogear/upstream
+	url = https://github.com/LenovoGuy98/pdf-parser
