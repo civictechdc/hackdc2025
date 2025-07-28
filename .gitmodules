@@ -7,3 +7,6 @@
 [submodule "projects/expanded-search/upstream"]
 	path = projects/expanded-search/upstream
 	url = https://github.com/purplewildflower/regulations-llm
+[submodule "projects/hive-partitioned-parquet/upstream"]
+	path = projects/hive-partitioned-parquet/upstream
+	url = https://github.com/jayqi/mirrulations-hive-partitioned-parquet
