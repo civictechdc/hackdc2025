@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 🙏 Acknowledgments
 
 - Thanks to Civic Hack DC organizers
-- [Any mentors or special contributors] 
+- [Any mentors or special contributors]

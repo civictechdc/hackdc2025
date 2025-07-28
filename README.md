@@ -95,9 +95,9 @@ Projects are scored on a 1–5 scale in each category and then multiplied by the
 - **Usability & Design** – Non‑technical users can run the tool or interpret results unaided; thoughtful UX or reporting artifacts provided.
 - **Continuity Potential** – Road‑map or issues list, maintainers committed, and a deployment or next‑steps plan that makes ongoing work realistic.
 
-## 📋 Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 /README.md              – You are here
 /LICENSE                – MIT for code, CC-BY 4.0 for docs, CC0 for data samples
 /CODE_OF_CONDUCT.md     – Community guidelines
@@ -121,15 +121,14 @@ Projects are scored on a 1–5 scale in each category and then multiplied by the
     results.csv         – Raw scoring data
     methodology.md      – Rubric and evaluator details
     summaries.md        – Project descriptions
-/projects/              – One folder per team
-    <team_slug>/
-        README.md       – Project overview and setup
-        snapshot/       – Code frozen at judging (subtree)
-        upstream/       – Optional submodule for continued work
-        links.txt       – External resources
-        data/           – Sample data for reproducibility
-/datasets/              – Shared reference data
-/scripts/               – Maintenance and helper scripts
+    submissions/        – Archived individual submissions  
+/projects/
+    team_name/          – Team project snapshots
+        README.md       – Project documentation
+        snapshot/       – Code frozen at hackathon
+        upstream/       – Live development (submodule)
+/datasets/              – Data samples and documentation
+/scripts/               – Utility scripts for project maintenance
 ```
 
 ## 🛠️ Technical Details

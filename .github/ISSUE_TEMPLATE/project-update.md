@@ -34,5 +34,5 @@ assignees: ''
 ## Impact
 <!-- How does this update improve the project or its impact on the community? -->
 
-## Screenshots
-<!-- If applicable, add screenshots to help explain your update --> 
+## Screenshots, Videos, or Other Media
+<!-- If applicable, add screenshots to help explain your update -->

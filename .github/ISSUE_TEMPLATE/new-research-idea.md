@@ -12,7 +12,7 @@ assignees: ''
 
 ## Related Projects
 <!-- Which hackathon project(s) does this build upon? -->
-- [ ] Project 1: 
+- [ ] Project 1:
 - [ ] Project 2:
 - [ ] Other:
 
@@ -40,4 +40,4 @@ assignees: ''
 <!-- How can interested collaborators reach you? -->
 - Email:
 - GitHub:
-- Other: 
+- Other:

@@ -43,8 +43,8 @@
 #### Form Submissions
 
 - [Form Submissions (CSV)](#form-submissions-csv)
-  - [Visualising Comment Data for Policy Analysis](#visualising-comment-data-for-policy-analysis)
-  - [Summarising Large Volumes of Comments](#summarising-large-volumes-of-comments)
+  - [Visualizing Comment Data for Policy Analysis](#visualizing-comment-data-for-policy-analysis)
+- [Summarizing Large Volumes of Comments](#summarizing-large-volumes-of-comments)
   - [How Common Is the Feedback?](#how-common-is-the-feedback)
 
 #### Email Submissions
@@ -79,7 +79,7 @@ Mirrulations (MIRRor of regULATIONS.gov) is a comprehensive ecosystem developed 
 - [**docket-stats (mirrulations-query)**](https://github.com/mirrulations/mirrulations-query)**:** Validate data completeness by comparing counts of dockets, documents, and comments in S3 against the live Regulations.gov API.  
 - [**mirrulations-csv**](https://github.com/mirrulations/mirrulations-csv)**:** Convert downloaded comment JSON files into a single, clean CSV file, intelligently excluding empty or constant fields to simplify downstream analysis.
 
-*For details on how the data is organised (dockets, documents, comments, attachments, and extraction outputs), see the [Mirrulations data structure reference](https://github.com/MoravianUniversity/mirrulations-data/blob/main/structure.md).*
+*For details on how the data is organized (dockets, documents, comments, attachments, and extraction outputs), see the [Mirrulations data structure reference](https://github.com/MoravianUniversity/mirrulations-data/blob/main/structure.md).*
 
 Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
@@ -140,7 +140,7 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 - **Need:**  
 
   - Build scraping scripts for agency systems (e.g., FCC’s ECFS API).  
-  - Deliver clear, standardised data formats (JSON) for comments and attachments.
+  - Deliver clear, standardized data formats (JSON) for comments and attachments.
 
 **Details:** [scraping regulations that are *not* on Regulations.gov](./additional_problem_details/external_agency_scraping.md)
 
@@ -157,7 +157,7 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 - **Need:**  
 
   - Higher‑quality structured extraction for PDFs, Word docs, images, and HTML.  
-  - Normalise text extraction across formats.  
+  - Normalize text extraction across formats.  
   - Integrate with **Position & Sentiment Analysis** modules.
 
 ---
@@ -166,13 +166,9 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
 - **Pain:** Single dockets (e.g., DEA‑2024‑0059) can contain tens of thousands of comments; final rules reference commenters only abstractly.  
 
-- **Stakeholder Quote:** “How can we summarise key themes, arguments, and sentiments from thousands of comments on a single rule?”  
+- **Stakeholder Quote:** "How can we summarize key themes, arguments, and sentiments from thousands of comments on a single rule?"  
 
-- **Need:**  
-
-  - Per‑docket dashboards to explore comments throughout the lifecycle.  
-  - Easy export tools (CSV / text) for single‑docket analysis.  
-  - Automated plain‑language summaries for non‑technical stakeholders.
+- **Need:** LLM‑powered thematic clustering and sentiment analysis pipelines.
 
 **Details:**
 
@@ -207,11 +203,11 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
 ### Entity Resolution
 
-- **Pain:** Organisation names are messy and inconsistent, obscuring who submitted comments.  
+- **Pain:** Organization names are messy and inconsistent, obscuring who submitted comments.  
 
 - **Stakeholder Quotes:**  
 
-  - “Make it easier to determine which organisations submitted comments.”  
+  - “Make it easier to determine which organizations submitted comments.”  
   - “We need entity disambiguation.”
 
 - **Need:** Canonical entity resolution to unify aliases and classify entities (advocacy, industry, etc.).
@@ -248,13 +244,13 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
   - Extract and cluster positions.  
   - Quantify shared stances.  
-  - Summarise clusters.
+  - Summarize clusters.
 
 ---
 
 ### Influence Mapping & Feedback Loops
 
-- **Pain:** Agencies summarise comments but rarely cite specifics, leaving commenters unsure of impact.  
+- **Pain:** Agencies summarize comments but rarely cite specifics, leaving commenters unsure of impact.  
 
 - **Stakeholder Quotes:**  
 
@@ -265,7 +261,7 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
   - Proposed → final diffing with regulator responses.  
   - Influence scoring.  
-  - Feedback loops so organisations can benchmark and refine engagement.
+  - Feedback loops so organizations can benchmark and refine engagement.
 
 ---
 
@@ -275,8 +271,8 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
 - **Stakeholder Quotes:**  
 
-  - “Help non‑experts discover adjacent topics.”  
-  - “How can we develop interactive visualisations that help policy analysts and the public quickly understand patterns?”
+  - "Help non‑experts discover adjacent topics."  
+  - "How can we develop interactive visualizations that help policy analysts and the public quickly understand patterns?"
 
 - **Need:**  
 
@@ -309,10 +305,10 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
 - Semantic enrichment & onboarding to teach new users adjacent topics and common terms in a regulatory domain.  
 - Topical graphing to store and expose "connected dockets" as a browsable dataset.  
-- Entity threads across rules to track an organisation’s regulatory engagement longitudinally.  
+- Entity threads across rules to track an organization's regulatory engagement longitudinally.  
 - Advanced coordination/fraud detection using text similarity, timing analysis, and submission clustering.  
 - Proposed → final rule diffing that combines comment clusters with regulator responses to pinpoint influence and adoption.  
-- Scalable LLM pipelines that adapt proven API‑driven approaches for summarisation, topic mining, and cross‑docket analysis.
+- Scalable LLM pipelines that adapt proven API‑driven approaches for summarization, topic mining, and cross‑docket analysis.
 
 ## Where Mirrulations Helps & Where Gaps Remain
 
@@ -327,11 +323,11 @@ Contact: [colemanb@moravian.edu](mailto:colemanb@moravian.edu)
 
 Stakeholders need affordable, enriched, and accessible pipelines that transform Regulations.gov data from a raw mirror into an actionable civic resource:
 
-- **Policy analysts:** Find partner organisations’ comments, measure consensus, and receive sector‑specific digests.  
+- **Policy analysts:** Find partner organizations' comments, measure consensus, and receive sector‑specific digests.  
 - **Advocates & journalists:** Detect coordinated campaigns and emerging issues using text‑plus‑timing analysis.  
 - **Agencies & NGOs:** Trace comment influence, evaluate feedback adoption, and generate compliance‑ready summaries to inform better engagement strategies.
 
-This landscape provides a blueprint for prioritising MVP pipelines (entity resolution, semantic search, consensus counting) while charting long‑term goals (influence mapping, advanced coordination detection, cross‑docket and cross‑platform graphs).
+This landscape provides a blueprint for prioritizing MVP pipelines (entity resolution, semantic search, consensus counting) while charting long‑term goals (influence mapping, advanced coordination detection, cross‑docket and cross‑platform graphs).
 
 ---
 
@@ -341,9 +337,9 @@ This landscape provides a blueprint for prioritising MVP pipelines (entity resol
 
 | Theme | Specific Gaps |
 | :---- | :---- |
-| Discoverability | Locate and categorise commenters across platforms. |
-| Visualisation | Dashboards for trends, geography, networks. |
-| Summarisation | NLP clustering of themes and sentiment. |
+| Discoverability | Locate and categorize commenters across platforms. |
+| Visualization | Dashboards for trends, geography, networks. |
+| Summarization | NLP clustering of themes and sentiment. |
 | Impact Tracking | Link comments to final‑rule text and measure influence. |
 | Cross‑Agency Aggregation | Unified access layer spanning all comment systems. |
 | Title Clarity | Disambiguate lengthy rule titles and surface relevant sections. |
@@ -352,29 +348,29 @@ This landscape provides a blueprint for prioritising MVP pipelines (entity resol
 
 ## Form Submissions (CSV)
 
-### Visualising Comment Data for Policy Analysis
+### Visualizing Comment Data for Policy Analysis
 
 - **Submitted:** 23 Jul 2025 15:38  
-- **Submitter:** *Yashin Lin*  
-- **Problem / Challenge:** “How can we develop interactive visualisations that help policy analysts and the public quickly understand patterns, trends, and outliers within a large dataset of public comments?”  
-- **Why It Matters:** “Raw data, even clean data, can be overwhelming. Effective visualisations (e.g., temporal trends of comments, geographical distribution of commenters, network graphs of related organisations) could unlock insights and improve public understanding of the rule‑making process.”  
+- **Submitter:** *Yashin Lin*  
+- **Problem / Challenge:** "How can we develop interactive visualizations that help policy analysts and the public quickly understand patterns, trends, and outliers within a large dataset of public comments?"  
+- **Why It Matters:** "Raw data, even clean data, can be overwhelming. Effective visualizations (e.g., temporal trends of comments, geographical distribution of commenters, network graphs of related organizations) could unlock insights and improve public understanding of the rule‑making process."  
 - **Desired Solution:** Interactive visual dashboards showing temporal, geographic, and relational patterns in comment data.  
 - **Participation Availability:** Potentially available.
 
 ---
 
-### Summarising Large Volumes of Comments
+### Summarizing Large Volumes of Comments
 
 - **Submitted:** 23 Jul 2025 15:40  
 
-- **Submitter:** *Yashin Lin*  
+- **Submitter:** *Yashin Lin*  
 
-- **Problem / Challenge:**  
+- **Problem / Challenge:**  
 
-  1. Same visualisation need as above.  
-  2. “How can we effectively and accurately summarise the key themes, arguments, and sentiments from thousands or tens of thousands of public comments on a single proposed rule?”
+  1. Same visualization need as above.  
+  2. "How can we effectively and accurately summarize the key themes, arguments, and sentiments from thousands or tens of thousands of public comments on a single proposed rule?"
 
-- **Why It Matters:** “Agencies are required to consider comments, but manually sifting through vast quantities is impractical. Automated summarisation, perhaps using NLP techniques, could dramatically improve efficiency and understanding of public input.”  
+- **Why It Matters:** "Agencies are required to consider comments, but manually sifting through vast quantities is impractical. Automated summarization, perhaps using NLP techniques, could dramatically improve efficiency and understanding of public input."  
 
 - **Desired Solution:** NLP‑driven thematic and sentiment summaries.  
 
@@ -386,16 +382,17 @@ This landscape provides a blueprint for prioritising MVP pipelines (entity resol
 
 - **Submitted:** 25 Jul 2025 14:04  
 
-- **Submitter:** *Melanie Kourbage* — Association of Public Health Laboratories (APHL)  
+- **Submitter:** *Melanie Kourbage* — Association of Public Health Laboratories (APHL)  
 
-- **Problem / Challenge:** “It is often difficult to locate comments from sister organisations on Regulations.gov, even when I know they submitted them… We strongly suspect that partner organisations made similar points, but verifying this is challenging. For instance, CMS recently solicited comments via an RFI embedded in the CMS IPPS Proposed Rule for 2026. Approximately how many credible commenters made a similar point? Can we analyse the data to see how often those dataflows were referenced and produce a digestible report?”  
+- **Problem / Challenge:** "It is often difficult to locate comments from sister organizations on Regulations.gov, even when I know they submitted them… We strongly suspect that partner organizations made similar points, but verifying this is challenging. For instance, CMS recently solicited comments via an RFI embedded in the CMS IPPS Proposed Rule for 2026. Approximately how many credible commenters made a similar point? Can we analyze the data to see how often those dataflows were referenced and produce a digestible report?"  
 
 - **Why It Matters:**  
 
-  1. Gauge the importance of an issue for the public‑health community.  
-  2. Measure how engaged partner organisations are in the commenting process.
+  1. Locate other partner organizations that may have commented on similar rules.  
+  2. Measure how engaged partner organizations are in the commenting process.  
+  3. Identify emerging issues by analyzing how organizations are shifting focus.
 
-- **Desired Solution:** Search, aggregation, and reporting tools that identify commenters, quantify topic overlap, and produce clear comparative reports.  
+- **Need:** End‑to‑end entity‑resolution pipeline for normalizing, classifying, and grouping commenters by organizational type.  
 
 - **Relevant Link:** [https://www.regulations.gov/document/CMS-2025-0028-0013/comment](https://www.regulations.gov/document/CMS-2025-0028-0013/comment)  
 
@@ -405,11 +402,11 @@ This landscape provides a blueprint for prioritising MVP pipelines (entity resol
 
 ## Email Submissions (Verbatim Excerpts)
 
-### Potential Use Cases / Problem Statements
+### Potential Use Cases / Problem Statements
 
-**Identifying commenters:** Make it easier to determine which organisations submitted comments and categorise them by type (advocacy, industry, academia, individuals).
+**Identifying commenters:** Make it easier to determine which organizations submitted comments and categorize them by type (advocacy, industry, academia, individuals).
 
-**Analysing comment content:** Enable better analysis of how many organisations commented on specific topics or themes.
+**Analyzing comment content:** Enable better analysis of how many organizations commented on specific topics or themes.
 
 **Tracking impact:** Develop tools to assess whether and how submitted comments influenced the final rule (e.g., whether particular suggestions were accepted or addressed).
 
@@ -421,15 +418,15 @@ This landscape provides a blueprint for prioritising MVP pipelines (entity resol
 
 “Your focus on impact resonates. In a nutshell, this is what I want to get out of the comments:
 
-• What did other organisations say? Did they make similar points to ours? Did we miss any obvious points? • What changed in the final rule, and were there comments suggesting that change? • APHL often submits the same feedback repeatedly, especially on annually updated rules. We must ask whether it’s worth submitting if our recommendations aren’t adopted, or whether we should re‑frame feedback. We’ve met with some federal agencies to get insight, but with mixed success.”
+• What did other organizations say? Did they make similar points to ours? Did we miss any obvious points? • What changed in the final rule, and were there comments suggesting that change? • APHL often submits the same feedback repeatedly, especially on annually updated rules. We must ask whether it's worth submitting if our recommendations aren't adopted, or whether we should re‑frame feedback. We've met with some federal agencies to get insight, but with mixed success."
 
-### Case Study: USCDI V6 Platform Challenges
+### Case Study: USCDI V6 Platform Challenges
 
-“USCDI V6 uses a separate platform, not Regulations.gov, to collect feedback, amplifying existing problems. Commenters must respond to data elements one by one. We submitted at least a dozen comments in May for V6. There’s a separate submission process to add or remove a data element. The platform saves all comments on all previous USCDI versions (V1‑V6), which is both good and bad. I just compared the final V6 standard to our comments and found none adopted. Several NGOs submitted comments; I don’t know whether theirs were addressed. I would be ecstatic if AI could handle this comparison.”
+“USCDI V6 uses a separate platform, not Regulations.gov, to collect feedback, amplifying existing problems. Commenters must respond to data elements one by one. We submitted at least a dozen comments in May for V6. There’s a separate submission process to add or remove a data element. The platform saves all comments on all previous USCDI versions (V1‑V6), which is both good and bad. I just compared the final V6 standard to our comments and found none adopted. Several NGOs submitted comments; I don’t know whether theirs were addressed. I would be ecstatic if AI could handle this comparison.”
 
 ### Additional Notes on Regulation Titles & Market Opportunity
 
-“First, the titles are a nightmare. Three CMS proposed rules dropped within 60 days. If I didn’t know what I was looking for, I never would have found the sections that impact public‑health data exchange and reporting.”
+“First, the titles are a nightmare. Three CMS proposed rules dropped within 60 days. If I didn’t know what I was looking for, I never would have found the sections that impact public‑health data exchange and reporting.”
 
 ### Fragmented Federal Comment Systems
 

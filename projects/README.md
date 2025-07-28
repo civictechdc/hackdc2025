@@ -2,18 +2,17 @@
 
 This directory contains all projects submitted during the hackathon. Each project has its own subdirectory with code snapshots, documentation, and resources.
 
-## Project Structure
+## 📁 Project Structure
 
-Each project folder follows this structure:
+Each team's project should be organized as follows:
 
-```
-<team_slug>/
-├── README.md       # Project overview and setup instructions
-├── snapshot/       # Code snapshot (git subtree)
-├── upstream/       # Optional: submodule for continued development
-├── links.txt       # External links (repo, demo, slides)
-├── data/          # Sample data for reproducibility
-└── LICENSE        # Project-specific license
+```text
+projects/team-name/
+├── README.md           # Project overview and setup instructions
+├── snapshot/          # Code snapshot from hackathon submission
+├── data/             # Sample data files (if applicable)
+├── docs/             # Additional documentation
+└── upstream/         # Git submodule pointing to active repo (optional)
 ```
 
 ## Browse Projects
