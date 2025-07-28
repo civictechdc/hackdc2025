@@ -6,6 +6,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.mypy_cache/
 
 # Editor directories and files
 .idea/

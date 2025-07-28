@@ -2,6 +2,8 @@
 
 ## Scoring Rubric
 
+Only judge the projects that you feel comfortable judging.
+
 Each project is evaluated on **six dimensions**, each worth up to 5 points. Scores are multiplied by their respective weight to calculate a weighted total (100% overall):
 
 ### 1. Impact & Relevance (20%)

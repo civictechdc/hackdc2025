@@ -1,0 +1,5 @@
+Original Repository: https://github.com/amitchharper/hackdc2025-entity-resolution
+Demo Video: [To be added]
+Presentation Slides: [To be added]
+Live Demo: [To be added]
+Team Contact: andrew.mitchell.harper@gmail.com 

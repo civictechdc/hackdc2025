@@ -1,0 +1,5 @@
+Original Repository: https://github.com/jayqi/mirrulations-hive-partitioned-parquet
+Demo Video: [To be added]
+Presentation Slides: [To be added]
+Live Demo: [To be added]
+Team Contact: jay.y.qi@gmail.com 

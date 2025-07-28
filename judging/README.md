@@ -20,12 +20,12 @@ We accept judging submissions through two methods:
 
 All judging issue submissions will be converted to Markdown and stored in `judging/submissions/<judge_name>.md` for transparency and archival purposes. Organizers will also append corresponding scores to `judging/results.csv`.
 
-## 📊 Processing Issue Submissions (For Organizers)
-
 ## 📋 Files in This Directory
 
 * **results.csv** – Raw scoring data from all judges
 * **submissions/** – Markdown copies of all judging submissions
+* **submissions/EXAMPLE.md** – Example of a judging submission
+* **summaries.md** – Summary of all judging submissions
 * **methodology.md** – Scoring rubric and evaluation criteria
 * **README.md** – This file
 

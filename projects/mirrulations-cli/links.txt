@@ -1,0 +1,6 @@
+Original Repository: https://github.com/jayqi/mirrulations-cli
+Demo Video: [To be added]
+Presentation Slides: [To be added]
+Live Demo: [To be added]
+PyPI Package: https://pypi.org/project/mirrulations-cli/
+Team Contact: jay.y.qi@gmail.com 
