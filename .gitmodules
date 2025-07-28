@@ -31,3 +31,6 @@
 [submodule "projects/uspf1/upstream"]
 	path = projects/uspf1/upstream
 	url = https://github.com/raghavrama21/uspf1-fda-knowledge-graph
+[submodule "projects/within-docket-dataset/upstream"]
+	path = projects/within-docket-dataset/upstream
+	url = https://github.com/SriInsights/DC-Hackathon-2025.git
