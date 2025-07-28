@@ -1,0 +1,25 @@
+# Placeholder URLs in templates
+https://demo-link.com
+https://video-link.com
+https://github.com/username
+https://linkedin.com/in/username
+DEMO_URL
+SLIDES_URL
+VIDEO_URL
+YOUR_REPO_URL
+team_slug
+s3://mirrulations
+
+# Non-existent template files
+demo.gif
+CONTRIBUTING.md
+LICENSE
+
+# External sites with access restrictions or temporary issues
+https://moritzlaw.osu.edu/faculty-and-research/drug-enforcement-and-policy-center/research-and-grants/policy-and-data-analyses/federal-marijuana-rescheduling
+https://www.ferc.gov/ferc-online/overview
+https://www.fcc.gov/ecfs
+https://www.sec.gov/rules-regulations/2025/06/s7-11-23#34-103320final
+https://edis.usitc.gov/
+https://www.sec.gov/rules-regulations/rulemaking-activity
+https://x.com/JoshCMandel/status/1940385674881814660

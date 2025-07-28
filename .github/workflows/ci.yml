@@ -26,8 +26,10 @@ jobs:
     - name: Link Checker
       uses: lycheeverse/lychee-action@v1
       with:
-        args: --verbose --no-progress './**/*.md' './**/*.html'
-        fail: true 
+        args: --verbose --no-progress --config lychee.toml './**/*.md' './**/*.html'
+        fail: true
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
 
   spellcheck:
     runs-on: ubuntu-latest

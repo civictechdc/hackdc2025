@@ -1,4 +1,4 @@
-# Civic Hack DC 2025 Projects
+# Civic Hack DC 2025 - Project Archive
 
 This directory contains all projects submitted during the hackathon. Each project has its own subdirectory with code snapshots, documentation, and resources.
 
@@ -15,17 +15,14 @@ projects/team-name/
 └── upstream/         # Git submodule pointing to active repo (optional)
 ```
 
-## Browse Projects
-
-### 🏆 Winners
-
-- [First Place Project](./winning_team_1/)
-- [Second Place Project](./winning_team_2/)
-- [Third Place Project](./winning_team_3/)
+## 📋 Submitted Projects
 
 ### By Challenge Category
 
-#### <Category>
+*Projects will be added here after the hackathon*
+*Projects will be categorized here by their focus area*
+
+### Highlighted Projects
 
 - [Project Name](./team_slug/)
 

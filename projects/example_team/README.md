@@ -1,8 +1,8 @@
-# Project Name
+# [Project Name]
 
-**Team:** Team Name  
+**Team:** [Team Name]  
 **Hackathon:** Civic Hack DC 2025  
-**Challenge:** Transportation & Mobility
+**Challenge:** [Category]
 
 ## 🎯 Problem Statement
 
@@ -14,15 +14,15 @@
 
 ## 🚀 Demo
 
-![Demo GIF](./demo.gif)
+![Demo GIF](demo.gif) *(Add your demo file)*
 
-[Live Demo](https://demo-link.com) | [Presentation Slides](./slides.pdf) | [Video Walkthrough](https://video-link.com)
+**Links:** [Live Demo](DEMO_URL) | [Presentation](SLIDES_URL) | [Video Walkthrough](VIDEO_URL)
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Tailwind CSS
-- Backend: Node.js, Express
-- Database: PostgreSQL
+- Frontend: [e.g., React, Vue, vanilla HTML/CSS]
+- Backend: [e.g., Node.js, Python, Go]
+- Database: [e.g., PostgreSQL, MongoDB, SQLite]
 - APIs: [List any external APIs used]
 
 ## 📦 Installation
@@ -32,15 +32,14 @@
 git clone [repo-url]
 
 # Install dependencies
-cd project-name
-npm install
+npm install  # or pip install -r requirements.txt
 
 # Set up environment variables
 cp .env.example .env
 # Edit .env with your configuration
 
-# Run the development server
-npm run dev
+# Run the application
+npm start  # or python app.py
 ```
 
 ## 📊 Data Sources
@@ -53,9 +52,9 @@ npm run dev
 - **[Name]** - Role - [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
 - **[Name]** - Role - [GitHub](https://github.com/username) | [LinkedIn](https://linkedin.com/in/username)
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 

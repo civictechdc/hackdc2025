@@ -8,7 +8,7 @@ We accept judging submissions through two methods:
 
 ### Method 1: GitHub Issue (Recommended for Non-Technical Judges)
 
-1. Go to the [Issues tab](https://github.com/[org]/[repo]/issues/new/choose)
+1. Go to the **Issues tab** of this repository (or navigate to Issues → New Issue)
 2. Select the **"Judging Submission"** template
 3. Fill out the form with your scores for each project
 4. Submit the issue
