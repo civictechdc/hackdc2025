@@ -1,0 +1,41 @@
+<div class="search-container">
+  <mat-form-field appearance="fill">
+    <mat-label>Search Regulations</mat-label>
+    <input matInput [(ngModel)]="searchTerm" placeholder="Enter a keyword" (keyup.enter)="search()">
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="search()">Search</button>
+</div>
+
+<div *ngIf="loading" class="loading-container">
+  <mat-spinner diameter="40"></mat-spinner>
+  <p>Loading regulations...</p>
+</div>
+
+<div *ngIf="error" class="error-message">
+  {{ error }}
+</div>
+
+<div *ngIf="filteredRegulations.length && !loading" class="results-container">
+  <h3>Results:</h3>
+  <div class="regulation-cards">
+    <mat-card *ngFor="let regulation of filteredRegulations" class="regulation-card">
+      <mat-card-header>
+        <mat-card-title>{{ regulation.title }}</mat-card-title>
+        <mat-card-subtitle>Docket ID: {{ regulation.docket_id }}</mat-card-subtitle>
+      </mat-card-header>
+      <mat-card-content>
+        <p>{{ regulation.summary }}</p>
+        <div class="keyword-chips" *ngIf="regulation.keywords?.length">
+          <span class="chip-label">Keywords:</span>
+          <mat-chip-set>
+            <mat-chip *ngFor="let keyword of regulation.keywords">{{ keyword }}</mat-chip>
+          </mat-chip-set>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>
+
+<div *ngIf="!filteredRegulations.length && searchTerm && !loading">
+  <p>No results found. Try another search term.</p>
+</div>
