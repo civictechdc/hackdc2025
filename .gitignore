@@ -51,6 +51,8 @@ ENV/
 # Large data files (use Git LFS instead)
 *.csv
 *.json
+!cspell.json
+!.markdownlint.json
 *.sqlite
 *.db
 

@@ -1,0 +1,14 @@
+{
+  "default": true,
+  "MD013": false,
+  "MD024": false,
+  "MD025": false,
+  "MD033": {
+    "allowed_elements": ["Category", "br", "details", "summary"]
+  },
+  "MD040": false,
+  "MD041": false,
+  "MD046": {
+    "style": "fenced"
+  }
+} 
