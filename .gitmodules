@@ -4,3 +4,6 @@
 [submodule "projects/entity-resolution-team/upstream"]
 	path = projects/entity-resolution-team/upstream
 	url = https://github.com/amitchharper/hackdc2025-entity-resolution
+[submodule "projects/expanded-search/upstream"]
+	path = projects/expanded-search/upstream
+	url = https://github.com/purplewildflower/regulations-llm
