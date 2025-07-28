@@ -13,3 +13,6 @@
 [submodule "projects/llmgov/upstream"]
 	path = projects/llmgov/upstream
 	url = https://github.com/ekim1394/civictech-hackathon-2025
+[submodule "projects/mirrulations-cli/upstream"]
+	path = projects/mirrulations-cli/upstream
+	url = https://github.com/jayqi/mirrulations-cli
