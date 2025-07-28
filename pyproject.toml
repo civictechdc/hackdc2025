@@ -1,0 +1,24 @@
+[project]
+name = "mirrulations"
+version = "0.1.2"
+description = "A utility tool for accessing data from the Mirrulations dataset."
+readme = "README.md"
+authors = [
+    { name = "Jay Qi", email = "jayqi@users.noreply.github.com" },
+    { name = "Ben Coleman", email = "colemanb@moravian.edu"},
+]
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+dependencies = [
+    "boto3",
+    "click",
+    "tqdm",
+]
+
+[project.scripts]
+mirrulations = "mirrulations.cli:cli"
+
+[build-system]
+requires = ["uv_build>=0.8.3,<0.9.0"]
+build-backend = "uv_build"
