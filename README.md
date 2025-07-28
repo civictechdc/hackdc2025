@@ -32,6 +32,18 @@ This repo now serves as the **permanent archive**:
 - cleaned datasets & helper scripts  
 - the original problem briefs (for future contributors)  
 
+### Event Photos
+
+![Event Photo 1](./photos/IMG_3330.JPG)
+
+![Event Photo 2](./photos/IMG_3388.JPG)
+
+![Event Photo 3](./photos/IMG_3459.JPG)
+
+Photo Albums:
+
+- Photos by Alex Gurvich: [Album](https://photos.app.goo.gl/AYcR6qTsjCkaehAy5)
+
 Everything is licensed to encourage reuse and continuation.
 
 ---
