@@ -1,3 +1,6 @@
 [submodule "projects/canOfSpam/upstream"]
 	path = projects/canOfSpam/upstream
 	url = https://github.com/VEDA95/hackathon_project_2025_bot_detection_submission_times
+[submodule "projects/entity-resolution-team/upstream"]
+	path = projects/entity-resolution-team/upstream
+	url = https://github.com/amitchharper/hackdc2025-entity-resolution
