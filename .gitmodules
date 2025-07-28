@@ -25,3 +25,6 @@
 [submodule "projects/team-velogear/upstream"]
 	path = projects/team-velogear/upstream
 	url = https://github.com/LenovoGuy98/pdf-parser
+[submodule "projects/the-scrapers/upstream"]
+	path = projects/the-scrapers/upstream
+	url = https://github.com/Cromian/civic-tech-scrape
