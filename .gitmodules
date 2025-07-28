@@ -10,3 +10,6 @@
 [submodule "projects/hive-partitioned-parquet/upstream"]
 	path = projects/hive-partitioned-parquet/upstream
 	url = https://github.com/jayqi/mirrulations-hive-partitioned-parquet
+[submodule "projects/llmgov/upstream"]
+	path = projects/llmgov/upstream
+	url = https://github.com/ekim1394/civictech-hackathon-2025
