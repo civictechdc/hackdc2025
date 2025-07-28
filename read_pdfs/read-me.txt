@@ -1,0 +1,71 @@
+PDF Content Extractor and CSV Exporter
+
+Overview
+This project extracts text content from PDF files located in the binary folder, processes each PDF page individually, and compiles the extracted text into a clean, easy-to-use CSV file.
+
+Input: PDFs located in the binary folder (currently ~1.1 GB in size)
+
+Output: A CSV file (pdf_content.csv) containing the text content of each PDF page
+
+Result: The CSV file size is approximately 21 MB — much easier to download and analyze compared to the original PDFs
+
+Note: Only PDF files are processed; all other file types in the folder are ignored
+
+Features
+Robust PDF loading with error handling for empty or corrupt files
+
+Extraction of text content on a per-page basis, maintaining page numbering
+
+Text cleaning for CSV compatibility (removing problematic characters and normalizing whitespace)
+
+Detailed logging for debugging and status monitoring
+
+Verification of the saved CSV file to ensure content integrity
+
+
+
+Usage
+Open pdf-docloader.py and update the folder_path variable to point to your PDF folder if different:
+
+python
+Copy
+Edit
+folder_path = "/path/to/your/binary/folder"
+
+
+The script will:
+
+Load each PDF file in the folder
+
+Extract and clean text from each page
+
+Compile the extracted content into a CSV file named pdf_content.csv
+
+Check the terminal or log output for any warnings or errors.
+
+Output CSV Format
+The CSV contains the following columns:
+
+Column Name	Description
+filename	PDF filename
+comment_id	Identifier derived from filename
+page_number	Page number within the PDF
+content	Extracted and cleaned text
+content_length	Number of characters in content
+total_pages	Total pages in the PDF
+
+Notes
+The original PDF folder size is about 1.1 GB.
+
+After extraction, the resulting CSV file is approximately 21 MB, making it easier to download, store, and analyze.
+
+Only PDF files are processed; other file formats or unrelated data files in the folder are ignored.
+
+The script performs multiple levels of cleaning to ensure the CSV is compatible with common spreadsheet tools and data processing pipelines.
+
+Troubleshooting
+If you encounter errors about missing packages, ensure all dependencies are installed (pymupdf and pandas).
+
+If the script does not find any PDF files, verify your folder path and ensure PDFs are present.
+
+For large PDFs, processing may take some time; progress is logged in the console.
