@@ -90,12 +90,28 @@
     "Sridhar",
     "Gundumalla",
     "Srishti",
-    "Steph"
+    "Marimo",
+    "NLTK",
+    "matplotlib",
+    "seaborn",
+    "stopwords",
+    "Spyder",
+    "Anaswar",
+    "Jayakumar",
+    "pdftotext",
+    "poppler",
+    "Queyen",
+    "Gurvich",
+    "ipynb",
+    "scikit"
   ],
   "ignorePaths": [
     "node_modules/**",
     ".git/**",
     "*.log",
-    "datasets/**"
+    "datasets/**",
+    "**/upstream/**",
+    "**/snapshot/**",
+    "projects/team-topic-modeling/code.py"
   ]
 } 

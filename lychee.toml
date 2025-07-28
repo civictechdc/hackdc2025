@@ -17,4 +17,4 @@ retry_wait_time = 2
 max_retries = 3
 
 # Exclude specific paths from being checked
-exclude_path = ["projects/example_team/"] 
+exclude_path = ["projects/example_team/", "**/upstream/**", "**/snapshot/**"] 
