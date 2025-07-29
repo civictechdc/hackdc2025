@@ -31,7 +31,7 @@ A data analysis tool for detecting fraudulent bot comments in federal regulatory
 
 - **Dean Eby**
 - **Kristijan Armeni**
-- **Anshu Sharma**
+- **Anshu Sharma** (anshu.g.sharma@gmail.com) (https://www.linkedin.com/in/anshugsharma/)
 - **Stefan Netterfield**
 
 ## 💡 Impact
