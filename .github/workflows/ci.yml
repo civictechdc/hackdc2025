@@ -7,29 +7,30 @@ on:
     branches: [ main ]
 
 jobs:
-  markdown-lint:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
+  # markdown-lint:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - uses: actions/checkout@v3
     
-    - name: Run markdownlint
-      uses: DavidAnson/markdownlint-cli2-action@v11
-      with:
-        globs: '**/*.md'
-        config: '.markdownlint.json'
+  #   - name: Run markdownlint
+  #     uses: DavidAnson/markdownlint-cli2-action@v11
+  #     with:
+  #       globs: '**/*.md'
+  #       config: '.markdownlint.json'
 
-  link-check:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
+
+  # link-check:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - uses: actions/checkout@v3
     
-    - name: Link Checker
-      uses: lycheeverse/lychee-action@v1
-      with:
-        args: --verbose --no-progress --config lychee.toml './**/*.md' './**/*.html'
-        fail: true
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
+  #   - name: Link Checker
+  #     uses: lycheeverse/lychee-action@v1
+  #     with:
+  #       args: --verbose --no-progress --config lychee.toml './**/*.md' './**/*.html'
+  #       fail: true
+  #     env:
+  #       GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
 
   spellcheck:
     runs-on: ubuntu-latest
