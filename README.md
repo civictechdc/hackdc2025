@@ -25,7 +25,7 @@ This hackathon was made possible by our sponsors, partners, the evaluation panel
 
 ## 1 · Why This Repository Exists
 
-On July 26 2025, 90 policy experts, data engineers, and civic technologists gathered at **Taoti Creative** to build **open-source tools** that unlock public-comment data from *Regulations.gov* and agency-specific portals.
+On July 26 2025, 80 policy experts, data engineers, and civic technologists gathered at **Taoti Creative** to build **open-source tools** that unlock public-comment data from *Regulations.gov* and agency-specific portals.
 
 This repo now serves as the **permanent archive**:
 
