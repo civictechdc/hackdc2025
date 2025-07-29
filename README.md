@@ -44,7 +44,7 @@ This repo now serves as the **permanent archive**:
 
 Photo Albums:
 
-- Photos by Alex Gurvich: [Album](https://photos.app.goo.gl/AYcR6qTsjCkaehAy5)
+- Photos by Alex Gurvich, Dean Eby, and the Civic Tech DC team: [Album](https://photos.app.goo.gl/AYcR6qTsjCkaehAy5)
 
 Everything is licensed to encourage reuse and continuation.
 
