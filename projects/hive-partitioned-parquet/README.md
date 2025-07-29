@@ -1,6 +1,6 @@
 # Hive-partitioned Parquet
 
-**Team:** Jay Qi ([@jayqi](https://github.com/jayqi))
+**Team:** Jay Qi ([@jayqi](https://github.com/jayqi))  
 **Hackathon:** Civic Hack DC 2025  
 **Challenge:** Data Accessibility & Cost / Data Quality & Derived Layers
 
