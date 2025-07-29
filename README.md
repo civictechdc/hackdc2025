@@ -1,5 +1,7 @@
 # Civic Hack DC 2025 – Part 1: Making Public Comments Count – Outcomes & Archive
 
+![Civic Hack DC 2025](./photos/civichackdc2025.png)
+
 Note: *This repository was created with the aid of Cursor using Claude 4 Sonnet, the content was workshopped by ChatGPT o3 and edited by ChatGPT 4o*
 
 ## 🌟 Acknowledgments
