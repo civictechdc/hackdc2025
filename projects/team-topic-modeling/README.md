@@ -8,6 +8,9 @@
 
 Automated analysis of regulatory documents to identify topics that are regulated and extract meaningful keywords that describe regulations. The goal is to process legal documents and policy submissions to uncover regulatory focus areas and language trends.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 ## 💡 Solution
 
 The project processes regulatory documents through an NLP pipeline:

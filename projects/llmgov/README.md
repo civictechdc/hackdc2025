@@ -4,7 +4,12 @@
 **Hackathon:** Civic Hack DC 2025  
 **Challenge:** Data Accessibility / Usability for Non-Technical Stakeholders
 
+## 🎯 Problem Overview
+
 CMS Docket Assistant is an LLM wrapper that utilizes RAG queries to answer general questions about dockets, making complex regulatory information accessible to non-technical stakeholders.
+
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
 
 ## 💡 Solution
 

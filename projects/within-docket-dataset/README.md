@@ -8,6 +8,9 @@
 
 This project links public comments to specific regulatory documents they respond to within a single docket, using metadata analysis, time-window heuristics, and semantic similarity techniques. The goal is to understand how public comments influence changes from proposed rules to final rules.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 ## 💡 Solution Approach
 
 The system processes regulatory dockets to:

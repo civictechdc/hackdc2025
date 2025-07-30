@@ -7,6 +7,9 @@
 
 Extracting organization information from comments to group those comments together, even when the organization name was not explicitly listed. We are looking to tackle the problem of cleaning organization names and extracting them from comments to make it more clear who's submitting regulatory comments, and group those records together.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 **Links:** [GitHub Repository](https://github.com/amitchharper/hackdc2025-entity-resolution)
 
 ## 🛠️ Tech Stack

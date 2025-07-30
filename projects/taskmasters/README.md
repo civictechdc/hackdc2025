@@ -8,6 +8,9 @@
 
 Extracting data from different types of documents such as PDFs, images and documents, while implementing keyword extraction on comments to improve data quality and accessibility in public comment datasets.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 ## 💡 Solution
 
 By extracting data from a wide variety of document formats including PDFs, images, and text documents our project ensures that valuable information contained in unstructured or hard to access files becomes accessible and analyzable. This directly addresses the challenge of inconsistent and fragmented data quality found in public comment datasets.

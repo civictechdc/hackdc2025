@@ -10,7 +10,10 @@ Creating basic code to help scrape other government websites and document the ch
 
 The project documents different scraping methodologies and challenges encountered when accessing government data sources.
 
-**Links:** [GitHub Repository](https://github.com/Cromian/civic-tech-scrape)
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
+**GitHub:** [Cromian/civic-tech-scrape](https://github.com/Cromian/civic-tech-scrape)
 
 ## 🛠️ Tech Stack
 

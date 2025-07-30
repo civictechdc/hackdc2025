@@ -8,6 +8,9 @@
 
 We are creating a Policy Comment Analyzer that leverages AI to automate the analysis of public comments on policy proposals. The system helps agencies better understand sentiment and issues within public comments by aggregating all comments related to a policy and breaking down talking points, linking them to specific issues and identifying sentiment.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 ## 💡 Solution
 
 This project uses the Google Gemini API to:

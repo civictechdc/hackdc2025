@@ -8,6 +8,9 @@
 
 Addresses "Docket Blindness" - the difficulty in identifying relevant FDA dockets and understanding what type of information is needed to clarify regulatory changes, particularly for pharmaceutical manufacturers and researchers.
 
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
+
 ## 💡 Solution
 
 An automated classification system that analyzes FDA docket comments and generates tags indicating the type of information needed (Scientific/Technical, Policy/Regulatory, Procedural, etc.). The system helps identify which dockets require specific types of clarification from the FDA.

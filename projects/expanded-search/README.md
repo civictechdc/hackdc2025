@@ -10,19 +10,8 @@
 
 Making it easy to find relevant dockets based on title, summary, and keywords from docket documents.
 
-## Tech Stack
-
-### Python Backend
-
-- SQLAlchemy ORM for database operations
-- spaCy for NLP keyword extraction
-- SQLite database for storing dockets and keywords
-- Domain models for business logic
-
-### Angular Frontend
-
-- Angular Material UI components
-- Search interface for regulations by keyword
+**Description:**
+Check out the full [project readme](./upstream/README.md) for more details.
 
 **Links:** [GitHub Repository](https://github.com/purplewildflower/regulations-llm)
 
