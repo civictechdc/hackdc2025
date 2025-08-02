@@ -32,8 +32,8 @@ We are also converting JSON files to parquet format using AWS S3, Glue, and Athe
 
 ## 🤝 Team Members
 
-- **Kriti Shahi**
-- **Sanskar Vidyarthi**
-- **Rohin Vaidya**
-- **Srikara Sai**
-- **Jayanth Bhansali**
+- **Kriti Shahi**, [kritishahi66@gmail.com](mailto:kritishahi66@gmail.com), [Linkedin](https://www.linkedin.com/in/kriti-shahi/)
+- **Sanskar Vidyarthi**, [sanskar.vidyarthi102@gmail.com](mailto:sanskar.vidyarthi102@gmail.com), [Linkedin](https://www.linkedin.com/in/sanskar-vidyarthi-6b04041ab/)
+- **Rohin Vaidya**, [rohin.vaidya@gmail.com](mailto:rohin.vaidya@gmail.com), [Linkedin](https://www.linkedin.com/in/rohin-vaidya/)
+- **Srikara Sai**, [jsrikarasai30@gmail.com](mailto:jsrikarasai30@gmail.com), [Linkedin](https://www.linkedin.com/in/srikara-sai/)
+- **Jayanth Bhansali**, [jayanthbhansali@gmail.com](mailto:jayanthbhansali@gmail.com), [Linkedin](https://www.linkedin.com/in/jayanthbhansali)
