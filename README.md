@@ -67,6 +67,32 @@ This hackathon was made possible by our sponsors, partners, the evaluation panel
 - **Breakdown**: Median Scores: Impact 4, Novelty 3, Amplification 4, Open Source 3, Usability 2, Continuity 3
 - **Highlights**: Created a conceptual pipeline for mapping comment influence on regulatory changes.
 
+### Judges
+
+- **[Ben Coleman](./evaluations/submissions/coleman.md)** – [LinkedIn](https://www.linkedin.com/in/moraviancoleman/)
+  Professor of Computer Science at Moravian University and primary maintainer of the Mirrulations project.
+
+- **[Fred Trotter](./evaluations/submissions/ftrotter.md)** – [LinkedIn](https://www.linkedin.com/in/fredtrotter/)
+  Healthcare Data Technologist at CMS Digital Service; healthcare informatics and open data expert.
+
+- **[Evan Tung](./evaluations/submissions/evan_tung.md)** – [LinkedIn](https://www.linkedin.com/in/ejtung/)
+  Software Engineer at AWS and Civic Tech DC organizer.
+
+- **[Gautami Nadkarni](./evaluations/submissions/gautami_nadkarni.md)** – [LinkedIn](https://www.linkedin.com/in/gautaminadkarni/)
+  Senior Customer Engineer at Google Cloud, focused on AI/ML and data modernization.
+
+- **[Santhosh Kumar Veeramalla](./evaluations/submissions/kumar_veeramalla.md)** – [LinkedIn](https://www.linkedin.com/in/santhoshk499/)
+  Senior Scala Developer at Optum with deep expertise in Spark and data engineering.
+
+- **[Melanie Kourbage](./evaluations/submissions/melanie_kourbage.md)** – [LinkedIn](https://www.linkedin.com/in/melanie-kourbage-48769044/)
+  Lead Specialist at APHL; veteran in public health informatics and federal-state data systems.
+
+- **[Taylor Wilson](./evaluations/submissions/taylor_wilson.md)** – [LinkedIn](https://www.linkedin.com/in/taylorjameswilson/)
+  VP of Applied Statistics at Reveal Global Consulting, leads DataKind DC.
+
+- **[Michael Deeb](./evaluations/submissions/deeb.md)** – [LinkedIn](https://www.linkedin.com/in/michael-deeb/)
+  Principal Consultant at TealWolf, CTO of Keeplist.io, and Director at Civic Tech DC.
+
 ---
 
 ## 1 · Why This Repository Exists
