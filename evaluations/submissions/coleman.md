@@ -44,6 +44,7 @@
   * Interesting way to identify organizations that submit multiple comments that are not duplicate.
 
 ---
+
 ### Project: expanded-search
 
 * **Impact & Relevance (20%):** /5
@@ -58,6 +59,7 @@
   * Looks like a search front end - similar to what Moravian did during the Spring 2025 semester.
 
 ---
+
 ### Project: hive-partitioned-parquet
 
 * **Impact & Relevance (20%):** 5/5
@@ -72,6 +74,7 @@
   * The actual code in the project is limited, but the idea here is incredibly valuable.
 
 ---
+
 ### Project: llmgov
 
 * **Impact & Relevance (20%):** 5/5
@@ -87,6 +90,7 @@
   * The example LLM queries are instructive.  I am curious how well this will scale too *all* the data.
 
 ---
+
 ### Project: mirrulations-cli
 
 * **Impact & Relevance (20%):** 4/5
@@ -101,6 +105,7 @@
   * I will incorporate this approach with the tools (Jay and I plan to work together to transfer ownership of the PyPi package).
 
 ---
+
 ### Project: rules-talk
 
 * **Impact & Relevance (20%):** 4/5
@@ -115,6 +120,7 @@
   * Using LLMs to perform a type of sentiment analysis is an interesting approach.  I don't know a lot about this, but I wonder how reliable it will be.  It certainly could be a way to identify ideas within a docket to explore further - i.e. the LLM finds a pattern, and then a human goes in to explore in more detail.
 
 ---
+
 ### Project: taskmasters
 
 * **Impact & Relevance (20%):** 3/5
@@ -130,8 +136,8 @@
   * Work on docx is interesting - something we haven't considered yet but want to.
   * Mix of Jupyter and straight Python is hard to syntesize
 
-
 ---
+
 ### Project: team-topic-modeling
 
 * **Impact & Relevance (20%):** 3/5
@@ -147,6 +153,7 @@
   * I don't see anything new here
 
 ---
+
 ### Project: team-velogear
 
 * **Impact & Relevance (20%):** 1/5
@@ -163,6 +170,7 @@
   * Well-presented project, but doesn't advance the mirrulations ecosystem
 
 ---
+
 ### Project: the-scrapers
 
 * **Impact & Relevance (20%):** 4/5
@@ -179,6 +187,7 @@
   * Similarly, I want to understand the format of the FCC data more so we can contemplate its compatibility with the current bucket structure.
 
 ---
+
 ### Project: uspf1
 
 * **Impact & Relevance (20%):** 2/5
@@ -194,6 +203,7 @@
   * The results in the README don't look like tags that expand what information can be informed from the organization and title of the docket.
 
 ---
+
 ### Project: within-docket-dataset
 
 * **Impact & Relevance (20%):** 3/5
@@ -211,6 +221,3 @@
 ---
 
 ## Overall Feedback
-
-
-

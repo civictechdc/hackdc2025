@@ -67,7 +67,7 @@
 * **Usability & Design (15%):** 3/5
 * **Continuity Potential (15%):** 4/5
 * **Comments:**
- 
+
   * The core idea is very solid and the use of parquet and Hive partitioning is smart and scalable approach.Choosing DuckDB is a good decision for lightweight.
   * The inclusion of demo notebook provides clear value and practical demonstration.
   * This approach is good for small and medium data but will not work for Large scala data.
