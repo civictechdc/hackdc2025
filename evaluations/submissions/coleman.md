@@ -134,7 +134,7 @@
   * minimal documentation
   * main folder and sub-folders appear to be different sub-projects, not unified
   * Work on docx is interesting - something we haven't considered yet but want to.
-  * Mix of Jupyter and straight Python is hard to syntesize
+  * Mix of Jupyter and straight Python is hard to synthesize
 
 ---
 
