@@ -23,6 +23,52 @@ We first want to thank the volunteers and participants who made this hackathon p
 
 This hackathon was made possible by our sponsors, partners, the evaluation panel, and all participants who dedicated their time and creativity to building tools for regulatory transparency.
 
+## 0 · Final Results
+
+### Top-Ranked Projects (Weighted Score ≥ ~3.0) by Alphabetical Order
+
+#### **[Can of Spam](./projects/canOfSpam/README.md)**
+
+- **Breakdown**: Median Scores: Impact 4, Novelty 3, Amplification 3, Open Source 3, Usability 3, Continuity 3
+- **Highlights**: Built a proof-of-concept for duplicate and bot comment detection, laying groundwork for campaign analysis.
+
+#### **[Hive-Partitioned Parquet](./projects/hive-partitioned-parquet/README.md)**
+
+- **Breakdown**: Median Scores: Impact 4.5, Novelty 4, Amplification 4, Open Source 4, Usability 3, Continuity 3.5
+- **Highlights**: Converted Mirrulations JSON to Hive-partitioned Parquet, enabling efficient SQL querying for large datasets.
+
+#### **[LLM.gov](./projects/llmgov/README.md)**
+
+- **Breakdown**: Median Scores: Impact 5, Novelty 4, Amplification 4, Open Source 4, Usability 4, Continuity 4
+- **Highlights**: Combined Retrieval-Augmented Generation (RAG) with vector embeddings for semantic search and summarization. Well-documented.
+
+#### **[Mirrulations-CLI](./projects/mirrulations-cli/README.md)**
+
+- **Breakdown**: Median Scores: Impact 5, Novelty 3.5, Amplification 5, Open Source 5, Usability 4.5, Continuity 4
+- **Highlights**: Packaged Mirrulations fetch and CSV tools into a polished CLI for easy installation and use, greatly improving accessibility.
+
+#### **[Rules-Talk](./projects/rules-talk/README.md)**
+
+- **Breakdown**: Median Scores: Impact 4, Novelty 4, Amplification 4.25, Open Source 3.25, Usability 4, Continuity 3.5
+- **Highlights**: Used LLMs to cluster sentiment and topics in public comments, making regulatory feedback more digestible for non-technical stakeholders.
+
+#### **[Taskmasters](./projects/taskmasters/README.md)**
+
+- **Breakdown**: Median Scores: Impact 3.5, Novelty 3, Amplification 3, Open Source 2.5, Usability 2.5, Continuity 3.25
+- **Highlights**: Developed a pipeline for comments, extracting text from PDFs, DOCX, and images, addressing data quality challenges.
+
+#### **[The Scrapers](./projects/the-scrapers/README.md)**
+
+- **Breakdown**: Median Scores: Impact 4.5, Novelty 3.5, Amplification 3.75, Open Source 3, Usability 3, Continuity 3.25
+- **Highlights**: Developed FCC and SEC scraping workflows, expanding the Mirrulations dataset beyond Regulations.gov.
+
+#### **[Within-Docket Dataset](./projects/within-docket-dataset/README.md)**
+
+- **Breakdown**: Median Scores: Impact 4, Novelty 3, Amplification 4, Open Source 3, Usability 2, Continuity 3
+- **Highlights**: Created a conceptual pipeline for mapping comment influence on regulatory changes.
+
+---
+
 ## 1 · Why This Repository Exists
 
 On July 26 2025, 80 policy experts, data engineers, and civic technologists gathered at **Taoti Creative** to build **open-source tools** that unlock public-comment data from *Regulations.gov* and agency-specific portals.
