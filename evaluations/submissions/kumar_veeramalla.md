@@ -19,10 +19,10 @@
 * **Comments:**
 
   * The core idea is good, but the approach needs significant changes to support large datasets.
-  * The comparision is using o(n2) (Sequential processing), which is not suit for large datasets and reduces the performance.
+  * The comparison is using o(n2) (Sequential processing), which is not suit for large datasets and reduces the performance.
   * Hardcoded values like the similarity threshold should be parameterized to enhance flexibility and reusability.
   * No mention of lowercase,uppercase,stop word removal. This can reduce accuracy of detection and Lack on Error handling.
-  * It can be further enahanced to use it widely and support multi-language comments similarity checks.
+  * It can be further enhanced to use it widely and support multi-language comments similarity checks.
 
 ---
 
@@ -67,11 +67,11 @@
 * **Usability & Design (15%):** 3/5
 * **Continuity Potential (15%):** 4/5
 * **Comments:**
- 
+
   * The core idea is very solid and the use of parquet and Hive partitioning is smart and scalable approach.Choosing DuckDB is a good decision for lightweight.
   * The inclusion of demo notebook provides clear value and practical demonstration.
   * This approach is good for small and medium data but will not work for Large scala data.
-  * Lack of schema evolution and anvdanced features which are already are avialable in market such as Delta Lake/Apache Iceberg which even handles Time travel, schema evoluation, ACID transations.
+  * Lack of schema evolution and advanced features which are already are available in market such as Delta Lake/Apache Iceberg which even handles Time travel, schema evaluation, ACID transactions.
 
 ---
 
@@ -120,7 +120,7 @@
 
   * Clear documentation and Quality code.
   * High impact use case as public comment analysis is often time-consuming process.
-  * Futher can be enhanced to compare the results with other LLM's for bias checking and robustness.
+  * Further can be enhanced to compare the results with other LLM's for bias checking and robustness.
 
 ---
 
