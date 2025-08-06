@@ -2,6 +2,16 @@
 
 This directory contains all evaluation-related materials and submissions for Civic Hack DC 2025.
 
+## 📊 Results
+
+[Final Results and Analysis](summaries.md)
+
+### Table of results
+
+* [Google Sheet](https://docs.google.com/spreadsheets/d/1bdQJU9wlW0xctlVepyocxuRRrld5wi1KfkcCe30cxLc/edit?usp=sharing)
+
+* [CSV](scores.csv)
+
 ## 📝 How to Submit Evaluation Scores
 
 Read the [methodology](methodology.md) for more details on how we're scoring projects.
