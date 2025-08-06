@@ -25,6 +25,14 @@ This hackathon was made possible by our sponsors, partners, the evaluation panel
 
 ## 0 · [Final Results](./evaluations/summaries.md)
 
+### Table of results
+
+- [Final Results and Analysis](./evaluations/summaries.md)
+
+- [CSV](./evaluations/scores.csv)
+
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1bdQJU9wlW0xctlVepyocxuRRrld5wi1KfkcCe30cxLc/edit?usp=sharing)
+
 ### Top-Ranked Projects (Weighted Score ≥ ~3.0) by Alphabetical Order
 
 #### **[Can of Spam](./projects/canOfSpam/README.md)**

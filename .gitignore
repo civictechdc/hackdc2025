@@ -59,6 +59,7 @@ ENV/
 
 # Exceptions for small reference files
 !evaluations/results.csv
+!evaluations/scores.csv
 !datasets/*.csv
 
 # Temporary files
