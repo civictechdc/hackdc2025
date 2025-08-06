@@ -23,7 +23,7 @@ We first want to thank the volunteers and participants who made this hackathon p
 
 This hackathon was made possible by our sponsors, partners, the evaluation panel, and all participants who dedicated their time and creativity to building tools for regulatory transparency.
 
-## 0 · Final Results
+## 0 · [Final Results](./evaluations/summaries.md)
 
 ### Top-Ranked Projects (Weighted Score ≥ ~3.0) by Alphabetical Order
 
